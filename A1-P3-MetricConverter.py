@@ -39,8 +39,7 @@ def main():
     
 
     #output for metric weights
-    print("")
-    print("The metric weight is {0} metric tons, {1} kilos, and {2:.1f} grams.".format(metricTons, flatKilos, grams ))
+    print("\nThe metric weight is {0} metric tons, {1} kilos, and {2:.1f} grams.".format(metricTons, flatKilos, grams ))
 
 
 
